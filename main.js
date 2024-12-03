@@ -3,5 +3,5 @@ function deleteItem() {
 }
 
 function saveItem() {
-  console.log("Item saved");
+  console.log("Saving all changes...");
 }
