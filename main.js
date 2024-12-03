@@ -4,3 +4,6 @@ function deleteItem() {
 function addItem() {
   console.log("Item deleted");
 }
+function deleteItem() {
+  console.log("Item really deleted");
+}
